@@ -1,5 +1,5 @@
 # UE4DedicatedServer
-Simple dedicated server implementation based on the Third Person C++ example included with Unreal Engine 4
+Simple dedicated server implementation based on the Third Person C++ example included with Unreal Engine 4 (v4.22.3)
 
 ## Instructions
 
@@ -9,6 +9,7 @@ https://wiki.unrealengine.com/Dedicated_Server_Guide_(Windows_%26_Linux)
 
 ## Notes
 
-If the instructions don't work, go back and re-do them from the beginning. There are a lot of subtle little things that need to be correct for this to fall into place.
+* As of this writing (UE v4.22.3) you need to be using the UnrealEngine built from the source code
+* If the instructions don't work, go back and re-do them from the beginning. There are a lot of subtle little things that need to be correct for this to fall into place.
 
 
