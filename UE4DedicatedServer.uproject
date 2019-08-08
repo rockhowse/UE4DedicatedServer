@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A88DD570-4378-76B4-66E6-FEB03D1757A5}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "UE4DedicatedServer",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
